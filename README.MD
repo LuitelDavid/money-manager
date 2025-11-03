@@ -47,7 +47,7 @@ PostgreSQL (v12+)
 npm
 
 1. Clone & Install
-git clone <your-repo-url>
+git clone <git clone <https://github.com/LuitelDavid/money-manager>>
 cd money-manager
 npm install
 
