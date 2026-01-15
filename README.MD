@@ -143,3 +143,5 @@ Transaction Types: Stored in type as 'expense' or 'credit'. The server uses this
 new_balance = previous_balance - amount (for expense)
 
 new_balance = previous_balance + amount (for credit)
+
+Thank you 
